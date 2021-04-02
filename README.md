@@ -5,6 +5,7 @@ implemented from the knowledge learnt from [Thapa Technical ](https://www.youtub
 
 This is a front-end and Backend weather app that displays the weather data according to enter city.
 API used from [openweather Api](https://openweathermap.org/)
+
 <img src = "gif.gif"/>
 ## Technologies learnt and used
 
